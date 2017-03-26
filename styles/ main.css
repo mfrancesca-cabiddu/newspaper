@@ -1,0 +1,41 @@
+header{
+  font-family: 'Playfair display', serif;
+  font-size: 70px;
+  font-weight: bold; 
+  text-transform: uppercase;
+  }
+  .content{
+  column-count: 3;
+  line-height:20px;
+  }
+	.head{
+  font-family: Georgia, times, serif;
+  position: relative;
+  text-align: center;
+  }
+  img{
+  max-width: 100%
+  }
+  .subhead{
+  border-bottom: 2px solid #000;
+  border-top:2px solid #000;
+  font-size: 20px;
+  padding: 12px 0 12px #000;
+  text-transform:uppercase;
+  }
+  body{
+  font-size: 14px;
+  font-style: normal;
+  margin: 8px;
+  text-align: justify;	
+  }
+  .headline{
+  border-bottom: 2px solid #000;
+  font-size: 24px;
+  font-style: italic;
+  line-height: normal;
+  margin: 8px;
+  padding: 12 px 0 12px 0;
+  text-align: center;
+  text-transform: unset;
+  }
