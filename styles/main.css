@@ -44,3 +44,16 @@
 		padding: 12px 0 12px #000;
 		text-transform:uppercase;
 	}
+		max-width: 100%
+	}
+	p {
+		position: relative;
+		top: 20px;
+	}
+	.subhead{
+		border-bottom: 2px solid #000;
+		border-top:2px solid #000;
+		font-size: 30px;
+		padding: 12px 0 12px #000;
+		text-transform:uppercase;
+	}
